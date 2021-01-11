@@ -9,3 +9,4 @@ Some more dummy text.
 * more git
 * cloud with gilbert
 * docker - if time permis
+* handout reading assignment and homework
