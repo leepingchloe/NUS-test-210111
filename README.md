@@ -10,6 +10,7 @@ Some more dummy text.
 * cloud with gilbert
 * docker - if time permis
 * handout reading assignment and homework
+* From google cloud shell editor
 
 ![](Profile.png)
 
