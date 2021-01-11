@@ -11,7 +11,7 @@ Some more dummy text.
 * docker - if time permis
 * handout reading assignment and homework
 
-![](profile.jpg)
+![](Profile.png)
 
-![](https://raw.githubusercontent.com/leepingchloe/NUS-test-210111/main/profile.jpg)
+![](https://raw.githubusercontent.com/leepingchloe/NUS-test-210111/main/Profile.png)
 
